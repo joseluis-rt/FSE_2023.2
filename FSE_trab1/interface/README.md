@@ -7,4 +7,4 @@ $ sudo apt-get install python3-tk
     
 Pasta destinada para testes/desenvolvimento da Interface Gráfica.
 
-![Interface Gráfica](/assets/interface_grafica.png)
+![Interface Gráfica](/FSE_trab1/assets/interface_grafica.png)
