@@ -68,7 +68,7 @@ O programa controla o funcionamento do cruzamento, alternando os semáforos, mon
 
 O usuário pode interagir com o programa para ativar modos noturnos ou de emergência. O programa exibe informações detalhadas sobre o fluxo de tráfego e infrações, facilitando a monitoração do cruzamento.
 
-![Board Terminal](/figuras/board_terminal.png)
+![Board Terminal](FSE_trab1/assets/board_terminal.png)
 
 [Explore o README do src](https://github.com/FSE-2023-2/trabalho-1-2023-2-joseluis-rt/tree/main/src) para obter mais informações sobre os arquivos utilizados neste projeto `main.py, cruzamento.py, sensor.py, ...`.
 
