@@ -116,7 +116,7 @@ Na figura abaixo apresento a arquitetura geral do sistema, destacando as GPIOs u
 
 <br/>
 
-![Figura](/figuras/cruzamentos_gpio.png)
+![Figura](/FSE_trab1/assets/cruzamentos_gpio.png)
 
 <br/>
 
@@ -140,7 +140,7 @@ Na figura abaixo apresento a arquitetura geral do sistema, destacando as GPIOs u
       ```
     - A interface gráfica ficou assim:
   
-      <img align="center" alt="Interface Gráfica" height="500" width="500" src="/figuras/interface_grafica.png">
+      <img align="center" alt="Interface Gráfica" height="500" width="500" src="/FSE_trab1/assets/interface_grafica.png">
 
 
 [(Sumário - voltar ao topo)](#top0)
