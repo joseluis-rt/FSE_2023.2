@@ -1,0 +1,36 @@
+menu "Configuração do Wifi Configuration"
+  config ESP_WIFI_SSID
+      string "WiFi SSID"
+      default "ssid"
+      help
+          Nome da rede Wifi.
+
+  config ESP_WIFI_PASSWORD
+      string "Senha do Wifi"
+      default "minha_senha"
+      help
+          Senha do WiFi (WPA or WPA2).
+
+  config ESP_MAXIMUM_RETRY
+      int "Número máximo de tentativas de conexão"
+      default 7
+      help
+          Configure o valor máximo de tentativas de conexão.
+endmenu
+
+menu "Configuração dos sensores"
+  config FLAME_DETECTOR_PIN
+      int "Pino sensor de chama"
+      default 23
+      help
+          Pino do sensor de detecção de chama.
+endmenu
+
+menu "Operation Mode"
+config MODO_BATERIA
+    int "Modo de Bateria"
+    default 0
+    range 0 1
+    help
+        O modo da ESP é de Bateria (0/1).
+endmenu
